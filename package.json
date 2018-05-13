@@ -1,0 +1,14 @@
+{
+  "name": "future-mnist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.10.3",
+    "@tensorflow/tfjs-node": "^0.1.2",
+    "future-framework": "^1.0.1"
+  }
+}
